@@ -59,7 +59,7 @@ déployé et je le maintiens.
 
 ---
 
-### 💼 Portfolio personnel
+### 💼 Portfolio
 Design pensé de zéro, navigation dynamique, présentation de mon parcours
 et de mes projets. Pas de template : je voulais comprendre chaque ligne de CSS.
 
